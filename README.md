@@ -93,3 +93,68 @@ export default App;
  
 
 Let me know if you need further clarifications or additional challenges! 🚀
+
+
+
+## Formart on setting up PR
+
+### **Pull Request Documentation Template**
+
+#### **Title**  
+Keep it concise but descriptive.  
+Example: `Fix: Optimize API response time for /getUsers endpoint`
+
+---
+
+### **Description**  
+Provide a clear and thorough explanation of the PR.  
+
+- **What does this PR do?**  
+  Briefly explain the purpose of this PR.  
+
+- **Why is it needed?**  
+  Mention the problem or feature this PR addresses.  
+
+- **How was it implemented?**  
+  Outline the approach or changes made to achieve the result.
+
+- **Any dependencies?**  
+  Mention if this PR depends on other PRs, libraries, or services.
+
+---
+
+### **Type of Change**  
+Tick the relevant options:  
+
+- [ ] Bug Fix  
+- [ ] Feature  
+- [ ] Refactor  
+- [ ] Documentation Update  
+- [ ] Performance Improvement  
+- [ ] Test Addition/Update  
+- [ ] CI/CD  
+
+---
+
+### **Screenshots (if applicable)**  
+Provide screenshots or GIFs for UI changes.  
+
+
+### **Checklist**  
+Ensure all checks are met before submitting the PR:  
+
+- [ ] My code follows the project's coding style.  
+- [ ] I have tested the code thoroughly.  
+- [ ] I have updated related documentation.  
+- [ ] All tests are passing.  
+- [ ] No linting issues.  
+- [ ] PR has a descriptive title and thorough description.  
+
+---
+
+
+### **Additional Notes**  
+Any additional context or notes relevant to the PR.  
+
+
+
